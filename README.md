@@ -1,6 +1,6 @@
 # Simple Applications in C
 
-Simple applications to explore basic programming language features
+Some simple applications to explore basic programming language features
 
 ## Getting Started
 
@@ -15,16 +15,16 @@ To install the project you only need to compile the project and run the generate
 
 compilation
 ```
-gcc numero_magico.c -o archive
+gcc file.c -o file
 ```
 
 run in Windows
 ```
-archive.exe
+file.exe
 ```
 run in Linux
 ```
-./archive
+./file
 ```
 
 ## Author
